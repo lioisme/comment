@@ -1,9 +1,9 @@
-## 关于我
+## Me
 学生 👨🏻‍🎓 & 赛博仓鼠
+
 喜欢的人：许嵩、花粥
+
 联系我：
-
-
 <p align="left">
     <a href="https://t.me/+dfZkuhYNe-VkODU1">
         <img src="https://img.shields.io/badge/Join-Telegram Group-2a8cbd.svg?logoColor=2a8cbd&logo=telegram"
@@ -15,28 +15,19 @@
 
 
 
-## 关于爱好
+## Hobby
+
 * [AndroLua](http://androlua.cn) 、爬虫
 * 影片鉴赏 & 影片收藏
 * 语言（英、日、粤）
 * 刷机 / Magisk
 * 羽毛球 🏸
 
-## 关于本站
 
 
-
-
-
+## This Site
 
 鸣谢：
-
-
-
-
-
-
-
 <p align="left">
     <a href="https://hexo.com" alt="Hexo">
         <img src="https://img.shields.io/badge/hexo-7.3.0-0e83cd.svg?logoColor=0e83cd&logo=hexo" /></a>
