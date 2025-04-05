@@ -41,7 +41,7 @@
     <a href="https://cloudflare.com" alt="Cloudflare">
         <img src="https://img.shields.io/badge/Cloudflare-Status-f6821f.svg?logoColor=f6821f&logo=cloudflare" /></a>
     <a href="https://vercel.com">
-        <img src="https://deploy-badge.liois.us.kg/vercel/liois"
+        <img src="https://deploy-badge.liois.top/vercel/liois"
             alt="Vercel Deploy"></a>
     <a href="https://github.com">
         <img src="https://img.shields.io/badge/GitHub-Hosted-0e83cd.svg?logoColor=ffffff&logo=github"
